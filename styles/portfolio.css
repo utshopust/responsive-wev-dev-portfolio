@@ -253,9 +253,6 @@ footer input[type="text"],footer input[type="email"],footer textarea{
 
 /* Responsive Media Query */
 
-.hide{
-    display: none;
-}
 
 @media screen and (max-width: 576px) {
     .skills-container, 
