@@ -251,6 +251,11 @@ footer input[type="text"],footer input[type="email"],footer textarea{
     border: none;
 }
 
+.download{
+    text-decoration: none;
+    color: white;
+}
+
 /* Responsive Media Query */
 
 
@@ -289,7 +294,10 @@ footer input[type="text"],footer input[type="email"],footer textarea{
     }
 
     
-
-    
 }
 
+/* Tablet Specific Media Query */
+
+@media screen and (min-width: 576px) and (max-width: 992px) {
+    
+}
